@@ -160,8 +160,8 @@ nbformat>=5.9
 **[Shahd Usama]**
 Data Analyst | Python · SQL · Machine Learning
 
-[![[LinkedIn](https://www.linkedin.com/in/shahdusama/)](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![[GitHub](https://github.com/ShahdUsama24)](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![[LinkedIn](https://www.linkedin.com/in/shahdusama/)](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]
+[![[GitHub](https://github.com/ShahdUsama24)](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)]
 
 
 *Data sources are publicly available on Kaggle. This project is for educational and portfolio purposes.*
